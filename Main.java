@@ -3,6 +3,7 @@
    Ödev
    aynı program içerisinde koşullu ifadeler kullanılarak, eğer kullanıcının ortalaması 60'dan büyük ise ekrana
    "Sınıfı Geçti" , küçük ise "Sınıfta Kaldı" yazsın. */
+
 import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
