@@ -12,6 +12,7 @@ public class DikUcgendeHipotenusBulanProgram {
         System.out.println("Hipotenüs Uzunluğu: " + hipotenus);
     }
 }
+
 Ödev
 Üç kenar uzunluğunu kullanıcıdan aldığınız üçgenin alanını hesaplayan programı yazınız.
 Formül
