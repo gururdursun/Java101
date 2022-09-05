@@ -1,4 +1,3 @@
-package KosulluIfadelerveKodBloklari;
 import java.util.Scanner;
 public class HesapMakinesi {
     public static void main(String[] args) {
